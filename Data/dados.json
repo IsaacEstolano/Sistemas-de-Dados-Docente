@@ -1,0 +1,3650 @@
+[
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "adriana botelho barcellos",
+    "materia": "FÍSICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "afonso da luz loss",
+    "materia": "LIBRAS"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "afonso da luz loss",
+    "materia": "LÍNGUA BRASILEIRA DE SINAIS - LIBRAS"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "afonso da luz loss",
+    "materia": "LIBRAS - BÁSICO"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "adriano martendal",
+    "materia": "LABORATÓRIO DE FÍSICA E QUÍMICA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "adriano martendal",
+    "materia": "LABORATÓRIOS DE PRÁTICAS PROFISSIONAIS ORIENTADAS"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "adriano martendal",
+    "materia": "PROJETOS AMBIENTAIS"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "adriano martendal",
+    "materia": "QUÍMICA"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "adriano martendal",
+    "materia": "QUÍMICA AMBIENTAL"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "agata regiane quissini",
+    "materia": "PROCESSOS DE APRENDIZAGEM I"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "agata regiane quissini",
+    "materia": "PROCESSOS DE APRENDIZAGEM II"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "agata regiane quissini",
+    "materia": "PROJETO INTEGRADOR"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "airton zancanaro",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS VI"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "airton zancanaro",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS VIII"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "airton zancanaro",
+    "materia": "TECNOLOGIAS DA INFORMAÇÃO E COMUNICAÇÃO EM EDUCAÇÃO"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "airton zancanaro",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS V"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "airton zancanaro",
+    "materia": "REDES DE COMPUTADORES II"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "airton zancanaro",
+    "materia": "SEMINÁRIO AVANÇADO - INTELIGENCIA ARTIFICIAL APLICADA A PESQUISA ACADÊMICA"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "airton zancanaro",
+    "materia": "SEMINÁRIO DE PESQUISA"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "airton zancanaro",
+    "materia": "FUNDAMENTOS DE INFORMÁTICA"
+  },
+  {
+    "codigo": 10,
+    "anoPeriodo": "2025",
+    "nome": "airton zancanaro",
+    "materia": "HARDWARE E SISTEMAS OPERACIONAIS"
+  },
+  {
+    "codigo": 12,
+    "anoPeriodo": "2025",
+    "nome": "airton zancanaro",
+    "materia": "REDES"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "alessandra farias millezi",
+    "materia": "MICROBIOLOGIA AGRÍCOLA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "alessandra farias millezi",
+    "materia": "LABORATÓRIO DE PRÁTICAS DE MICROBIOLOGIA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "alessandra farias millezi",
+    "materia": "BIOLOGIA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "alessandra heidrich",
+    "materia": "MATEMÁTICA FUNDAMENTAL II"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "alessandra heidrich",
+    "materia": "MATEMÁTICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "allan charlles mendes de sousa",
+    "materia": "GÊNESE E CLASSIFICAÇÃO DOS SOLOS"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "allan charlles mendes de sousa",
+    "materia": "QUÍMICA E FERTILIDADE DO SOLO"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "allan charlles mendes de sousa",
+    "materia": "DESENHO TÉCNICO"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "allan charlles mendes de sousa",
+    "materia": "INTRODUÇÃO À AGRONOMIA"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "allan charlles mendes de sousa",
+    "materia": "USO, MANEJO E CONSERVAÇÃO DO SOLO"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "allan charlles mendes de sousa",
+    "materia": "AGRICULTURA I"
+  },
+  {
+    "codigo": 10,
+    "anoPeriodo": "2025",
+    "nome": "allan charlles mendes de sousa",
+    "materia": "DESENHO TÉCNICO E CONSTRUÇÕES RURAIS"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "ana cristina franzoi",
+    "materia": "QUÍMICA ANALÍTICA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "ana cristina franzoi",
+    "materia": "QUÍMICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "ana paula resende malheiro amaral",
+    "materia": "MATEMÁTICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "andre fabiano de moraes",
+    "materia": "EXTENSÃO UNIVERSITÁRIA II"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "andre fabiano de moraes",
+    "materia": "PROGRAMAÇÃO AVANÇADA EM WEBMAPAS"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "andre fabiano de moraes",
+    "materia": "SISTEMAS DISTRIBUÍDOS"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "andre fabiano de moraes",
+    "materia": "SISTEMAS OPERACIONAIS"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "andre fabiano de moraes",
+    "materia": "TRABALHO DE CONCLUSÃO DE CURSO II"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "andre fabiano de moraes",
+    "materia": "ADMINISTRAÇÃO DE SERVIDORES"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "andre fabiano de moraes",
+    "materia": "EXTENSÃO UNIVERSITÁRIA I"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "andre fabiano de moraes",
+    "materia": "GERENCIAMENTO DE PROJETO"
+  },
+  {
+    "codigo": 9,
+    "anoPeriodo": "2025",
+    "nome": "andre fabiano de moraes",
+    "materia": "GERENCIAMENTO DE PROJETOS"
+  },
+  {
+    "codigo": 10,
+    "anoPeriodo": "2025",
+    "nome": "andre fabiano de moraes",
+    "materia": "INTRODUÇÃO À PROGRAMAÇÃO WEB"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "andrea cristina gomes monteiro",
+    "materia": "INGLÊS - BÁSICO II"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "andrea cristina gomes monteiro",
+    "materia": "INGLÊS - BÁSICO III"
+  },
+  {
+    "codigo": 10,
+    "anoPeriodo": "2025",
+    "nome": "andrea cristina gomes monteiro",
+    "materia": "INGLÊS - INTERMEDIÁRIO I"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "andreia regina bazzo",
+    "materia": "ARTES"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "andressa graziele brandt",
+    "materia": "MODALIDADES DA EDUCAÇÃO BÁSICA II"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "andressa graziele brandt",
+    "materia": "PAULO FREIRE E EDUCAÇÃO"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "andressa graziele brandt",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS II"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "andressa graziele brandt",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS I"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "andressa graziele brandt",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS VII"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "andressa graziele brandt",
+    "materia": "SEMINÁRIO AVANÇADO - CURRÍCULO"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "angela beatriz fridrich carlomagno",
+    "materia": "ATIVIDADES PRÁTICAS II - ZOOTECNIA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "angela beatriz fridrich carlomagno",
+    "materia": "MANEJO E UTILIZAÇÃO DE PASTAGENS"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "angela beatriz fridrich carlomagno",
+    "materia": "OVINOCAPRINOCULTURA"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "angela beatriz fridrich carlomagno",
+    "materia": "MELHORAMENTO GENÉTICO ANIMAL"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "angela beatriz fridrich carlomagno",
+    "materia": "PRÁTICA PROFISSIONAL ORIENTADA I"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "angela beatriz fridrich carlomagno",
+    "materia": "PRÁTICA PROFISSIONAL ORIENTADA III"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "angelo augusto frozza",
+    "materia": "BANCO DE DADOS II"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "angelo augusto frozza",
+    "materia": "TÓPICOS AVANÇADOS EM BANCO DE DADOS"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "angelo augusto frozza",
+    "materia": "BANCO DE DADOS I"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "angelo augusto frozza",
+    "materia": "DATA WAREHOUSE"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "angelo augusto frozza",
+    "materia": "PESQUISA EM INFORMÁTICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "antonio jose farias nobrega",
+    "materia": "CÁLCULO IV"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "antonio jose farias nobrega",
+    "materia": "FÍSICA II"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "antonio jose farias nobrega",
+    "materia": "EQUAÇÕES DIFERENCIAIS ORDINÁRIAS"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "antonio jose farias nobrega",
+    "materia": "FÍSICA"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "antonio jose farias nobrega",
+    "materia": "FÍSICA I"
+  },
+  {
+    "codigo": 9,
+    "anoPeriodo": "2025",
+    "nome": "antonio jose farias nobrega",
+    "materia": "LABORATÓRIO DE FÍSICA"
+  },
+  {
+    "codigo": 10,
+    "anoPeriodo": "2025",
+    "nome": "antonio jose farias nobrega",
+    "materia": "LABORATÓRIO DE FÍSICA E QUÍMICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "antonio jose pereira",
+    "materia": "MECANIZAÇÃO AGRÍCOLA"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "antonio jose pereira",
+    "materia": "PRÁTICA PROFISSIONAL ORIENTADA II"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "araceli goncalves",
+    "materia": "METODOLOGIAS DE ENSINO DE MATEMÁTICA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "araceli goncalves",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS IV"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "araceli goncalves",
+    "materia": "ESTÁGIO SUPERVISIONADO I"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "araceli goncalves",
+    "materia": "LABORATÓRIO DE ENSINO DE MATEMÁTICA I"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "araceli goncalves",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS III"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "aujor tadeu cavalca andrade",
+    "materia": "FUNDAMENTOS DE REDES DE COMPUTADORES"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "aujor tadeu cavalca andrade",
+    "materia": "GERÊNCIA DE REDES"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "aujor tadeu cavalca andrade",
+    "materia": "GOVERNANÇA DE TECNOLOGIA DE INFORMAÇÃO"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "aujor tadeu cavalca andrade",
+    "materia": "REDES DE COMPUTADORES"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "aujor tadeu cavalca andrade",
+    "materia": "SEGURANÇA DA INFORMAÇÃO"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "aujor tadeu cavalca andrade",
+    "materia": "ADMINISTRAÇÃO DE SERVIDORES"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "aujor tadeu cavalca andrade",
+    "materia": "GOVERNANÇA DE TI"
+  },
+  {
+    "codigo": 9,
+    "anoPeriodo": "2025",
+    "nome": "aujor tadeu cavalca andrade",
+    "materia": "SERVIÇOS DE REDES"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "auro cesar braga",
+    "materia": "AQUICULTURA GERAL"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "auro cesar braga",
+    "materia": "PRÁTICA PROFISSIONAL ORIENTADA II"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "auro cesar braga",
+    "materia": "PRÁTICAS REPRODUTIVAS EM ANIMAIS DE PRODUÇÃO"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "auro cesar braga",
+    "materia": "ZOOTECNIA I"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "auro cesar braga",
+    "materia": "ZOOTECNIA II"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "bruno carlesso aita",
+    "materia": "HIGIENE DO TRABALHO I"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "bruno carlesso aita",
+    "materia": "PROJETO INTEGRADOR"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "bruno carlesso aita",
+    "materia": "SEGURANÇA DO TRABALHO II"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "bruno carlesso aita",
+    "materia": "HIGIENE DO TRABALHO II"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "carla machado de sa stein",
+    "materia": "ESPANHOL - BÁSICO I"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "carla machado de sa stein",
+    "materia": "ESPANHOL - BÁSICO II"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "carla machado de sa stein",
+    "materia": "ESPANHOL - BÁSICO III"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "carla morschbacher",
+    "materia": "ÁLGEBRA LINEAR"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "carla morschbacher",
+    "materia": "FUNDAMENTOS DE ANÁLISE REAL"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "carla morschbacher",
+    "materia": "LÓGICA BÁSICA"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "carla morschbacher",
+    "materia": "MATEMÁTICA FUNDAMENTAL I"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "carla morschbacher",
+    "materia": "MATEMÁTICA FUNDAMENTAL III"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "carla morschbacher",
+    "materia": "PRÉ - CÁLCULO"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "carla morschbacher",
+    "materia": "MATEMÁTICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "carlos eduardo nogueira martins",
+    "materia": "BOVINOCULTURA DE CORTE"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "carlos eduardo nogueira martins",
+    "materia": "AGRONEGÓCIO DIGITAL E APLICAÇÕES DA INTELIGÊNCIA ARTIFICIAL NA PRODUÇÃO ANIMAL"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "carlos eduardo nogueira martins",
+    "materia": "ESTATÍSTICA EXPERIMENTAL"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "carlos eduardo nogueira martins",
+    "materia": "PRÁTICA PROFISSIONAL ORIENTADA III"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "carlos eduardo nogueira martins",
+    "materia": "ZOOTECNIA III"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "caroline paula verona e freitas",
+    "materia": "DIREITO DO CONSUMIDOR"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "caroline paula verona e freitas",
+    "materia": "DIREITO E LEGISLAÇÃO IMOBILIÁRIA II"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "caroline paula verona e freitas",
+    "materia": "INCORPORAÇÃO, INSTITUIÇÃO DE CONDOMÍNIO E SFH-SFI"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "caroline paula verona e freitas",
+    "materia": "LEGISLAÇÃO E ÉTICA NA INFORMÁTICA"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "caroline paula verona e freitas",
+    "materia": "DIREITO E LEGISLAÇÃO III"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "caroline paula verona e freitas",
+    "materia": "DIREITO E LEGISLAÇÃO II"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "claudia oliveira rosa",
+    "materia": "AGRICULTURA III"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "claudia oliveira rosa",
+    "materia": "PRÁTICA PROFISSIONAL ORIENTADA III"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "cleonice maria beppler",
+    "materia": "SEGURANÇA DO TRABALHO"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "cleonice maria beppler",
+    "materia": "INTRODUÇÃO E COMUNICAÇÃO"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "cleonice maria beppler",
+    "materia": "MOBILIZAÇÃO COMUNITÁRIA E ADMINISTRAÇÃO"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "cleonice maria beppler",
+    "materia": "PROJETO INTEGRADOR"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "cristalina yoshie yoshimura",
+    "materia": "BOTÂNICA SISTEMÁTICA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "cristalina yoshie yoshimura",
+    "materia": "BIOLOGIA"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "cristalina yoshie yoshimura",
+    "materia": "LABORATÓRIOS DE PRÁTICAS PROFISSIONAIS ORIENTADAS"
+  },
+  {
+    "codigo": 9,
+    "anoPeriodo": "2025",
+    "nome": "cristalina yoshie yoshimura",
+    "materia": "PROJETOS AMBIENTAIS"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "cristhiane guertler",
+    "materia": "SEGURANÇA DO TRABALHO RURAL"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "cristhiane guertler",
+    "materia": "PROJETO INTEGRADOR"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "cristhiane guertler",
+    "materia": "SEGURANÇA DO TRABALHO"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "cristiane regina michelon",
+    "materia": "GEOCIÊNCIAS II"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "cristiane regina michelon",
+    "materia": "GEOCIÊNCIAS I"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "cristiane regina michelon",
+    "materia": "MONITORAMENTO AMBIENTAL"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "cristiane regina michelon",
+    "materia": "GEOGRAFIA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "daiane heloisa nunes",
+    "materia": "MANEJO DE PLANTAS DANINHAS"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "daiane heloisa nunes",
+    "materia": "ZOOLOGIA AGRÍCOLA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "daiane heloisa nunes",
+    "materia": "AGROECOLOGIA"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "daiane heloisa nunes",
+    "materia": "OLERICULTURA"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "daiane heloisa nunes",
+    "materia": "AGRICULTURA I"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "daiane heloisa nunes",
+    "materia": "PRÁTICA PROFISSIONAL ORIENTADA I"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "daniel de andrade varela",
+    "materia": "PRATICA PROFISSIONALIZANTE ORIENTADA I"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "daniel de andrade varela",
+    "materia": "PRATICA PROFISSIONALIZANTE ORIENTADA II"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "daniel fernando anderle",
+    "materia": "INTRODUÇÃO A EAD / PRÁTICAS PROFISSIONAIS"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "daniel fernando anderle",
+    "materia": "SEMINÁRIO DE PESQUISA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "daniel shikanai kerr",
+    "materia": "FUNDAMENTOS E METODOLOGIA EM CIÊNCIAS NATURAIS"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "daniel shikanai kerr",
+    "materia": "FÍSICA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "daniel shikanai kerr",
+    "materia": "FERRAMENTAS ELETRÔNICAS PARA ANÁLISE DE DADOS"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "daniel shikanai kerr",
+    "materia": "LABORATÓRIOS DE PRÁTICAS PROFISSIONAIS ORIENTADAS"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "daniele soares de lima",
+    "materia": "FUNDAMENTOS DA LINGUAGEM E DA LÍNGUA PORTUGUESA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "daniele soares de lima",
+    "materia": "LÍNGUA PORTUGUESA I"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "daniele soares de lima",
+    "materia": "LÍNGUA PORTUGUESA II"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "daniele soares de lima",
+    "materia": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "danilo jose ferreira",
+    "materia": "SUINOCULTURA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "danilo jose ferreira",
+    "materia": "PRÁTICA PROFISSIONAL ORIENTADA II"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "danilo jose ferreira",
+    "materia": "ZOOTECNIA II"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "debora de fatima einhardt jara",
+    "materia": "FUNDAMENTOS E METODOLOGIA EM ARTES"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "debora de fatima einhardt jara",
+    "materia": "DIVERSIDADE, INCLUSÃO E DIREITOS HUMANOS"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "debora de fatima einhardt jara",
+    "materia": "ARTES"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "debora de fatima einhardt jara",
+    "materia": "LABORATÓRIOS DE PRÁTICAS PROFISSIONAIS ORIENTADAS"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "degelane cordova duarte",
+    "materia": "ESTÁGIO SUPERVISIONADO IV - ANOS INICIAIS DO ENSINO FUNDAMENTAL"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "degelane cordova duarte",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS III"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "degelane cordova duarte",
+    "materia": "TEORIAS EDUCACIONAIS E CURRICULARES"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "degelane cordova duarte",
+    "materia": "DIDÁTICA: EDUCAÇÃO INFANTIL E ANOS INICIAIS"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "degelane cordova duarte",
+    "materia": "ESTÁGIO SUPERVISIONADO I - EDUCAÇÃO INFANTIL"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "degelane cordova duarte",
+    "materia": "ESTÁGIO SUPERVISIONADO III - ANOS INICIAIS DO ENSINO FUNDAMENTAL"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "degelane cordova duarte",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS II"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "diego das neves de souza",
+    "materia": "CÁLCULO I"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "diego das neves de souza",
+    "materia": "CÁLCULO III"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "diego das neves de souza",
+    "materia": "GEOMETRIA ESPACIAL"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "diego das neves de souza",
+    "materia": "CÁLCULO II"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "diego das neves de souza",
+    "materia": "INTRODUÇÃO À ÁLGEBRA MODERNA"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "diego das neves de souza",
+    "materia": "MATEMÁTICA FUNDAMENTAL III"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "diego das neves de souza",
+    "materia": "MATEMÁTICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "eduardo abel coral",
+    "materia": "LABORATÓRIO DE PRÁTICA E ENSINO-APRENDIZAGEM II"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "eduardo abel coral",
+    "materia": "MODELAGEM MATEMÁTICA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "eduardo abel coral",
+    "materia": "SEMINÁRIO DE PESQUISA"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "eduardo abel coral",
+    "materia": "TECNOLOGIAS DIGITAIS PARA O ENSINO DA MATEMÁTICA"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "eduardo abel coral",
+    "materia": "MATEMÁTICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "eliana teresinha quartiero",
+    "materia": "PSICOLOGIA DA EDUCAÇÃO"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "eliana teresinha quartiero",
+    "materia": "RELAÇÕES HUMANAS E ÉTICA"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "eliana teresinha quartiero",
+    "materia": "SAÚDE E POLÍTICAS PÚBLICAS"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "eliana teresinha quartiero",
+    "materia": "PSICOLOGIA DO DESASTRE"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "eliana teresinha quartiero",
+    "materia": "PSICOLOGIA DO TRABALHO"
+  },
+  {
+    "codigo": 9,
+    "anoPeriodo": "2025",
+    "nome": "eliana teresinha quartiero",
+    "materia": "RELAÇÕES INTERPESSOAIS"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "elisangela da silva rocha",
+    "materia": "MARKETING DIGITAL"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "elisangela da silva rocha",
+    "materia": "MARKETING ESTRATÉGICO"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "elisangela da silva rocha",
+    "materia": "MARKETING IMOBILIÁRIO"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "elisangela da silva rocha",
+    "materia": "EMPREENDEDORISMO E INOVAÇÃO"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "elisangela da silva rocha",
+    "materia": "MARKETING EXPERIENCIAL"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "elisangela da silva rocha",
+    "materia": "GESTÃO DA MARCA"
+  },
+  {
+    "codigo": 9,
+    "anoPeriodo": "2025",
+    "nome": "elisangela da silva rocha",
+    "materia": "INTEGRAÇÃO COM A COMUNIDADE III"
+  },
+  {
+    "codigo": 12,
+    "anoPeriodo": "2025",
+    "nome": "elisangela da silva rocha",
+    "materia": "ADMINISTRAÇÃO GERAL"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "fabio castanheira",
+    "materia": "PORTUGUÊS INSTRUMENTAL"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "fabio castanheira",
+    "materia": "SEMINÁRIO AVANÇADO -  DECOLONIALIDADE CRÍTICA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "fabio castanheira",
+    "materia": "LABORATÓRIOS DE PRÁTICAS PROFISSIONAIS ORIENTADAS"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "fabio castanheira",
+    "materia": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "fabiola santini takayama",
+    "materia": "LINGUAGEM, CORPO E MOVIMENTO"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "fabiola santini takayama",
+    "materia": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "fabricio da silva barboza",
+    "materia": "GEOPROCESSAMENTO"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "fabricio da silva barboza",
+    "materia": "TOPOGRAFIA I"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "fabricio da silva barboza",
+    "materia": "TOPOGRAFIA II"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "fabricio da silva barboza",
+    "materia": "PRÁTICA PROFISSIONAL ORIENTADA II"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "fabricio da silva barboza",
+    "materia": "TOPOGRAFIA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "felipe eduardo de pinho barreiros",
+    "materia": "ARTES"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "felipe eduardo de pinho barreiros",
+    "materia": "ARTE"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "fernanda carvalho humann",
+    "materia": "BIOLOGIA"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "fernanda carvalho humann",
+    "materia": "PROJETOS AMBIENTAIS"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "filomena lucia gossler rodrigues da silva",
+    "materia": "GESTÃO EDUCACIONAL"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "filomena lucia gossler rodrigues da silva",
+    "materia": "GESTÃO ESCOLAR"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "filomena lucia gossler rodrigues da silva",
+    "materia": "PEDAGOGIA E PROFISSÃO DOCENTE"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "filomena lucia gossler rodrigues da silva",
+    "materia": "SEMINÁRIO AVANÇADO: DIÁLOGOS ENTRE STEPHEN BALL E BASIL BERNSTEIN"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "filomena lucia gossler rodrigues da silva",
+    "materia": "EPISTEMOLOGIA E EDUCAÇÃO"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "flavia de souza fernandes",
+    "materia": "ERGONOMIA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "flavia de souza fernandes",
+    "materia": "PRIMEIROS SOCORROS"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "flavia de souza fernandes",
+    "materia": "PROJETO INTEGRADOR"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "flavia de souza fernandes",
+    "materia": "SAÚDE PÚBLICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "flavia walter",
+    "materia": "ESPANHOL INSTRUMENTAL"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "flavia walter",
+    "materia": "ESPANHOL"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "flavia walter",
+    "materia": "PROCESSOS DE COMUNICAÇÃO I"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "flavia walter",
+    "materia": "LÍNGUA ESTRANGEIRA INGLÊS/ESPANHOL"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "flavia walter",
+    "materia": "ESPANHOL - BÁSICO I"
+  },
+  {
+    "codigo": 10,
+    "anoPeriodo": "2025",
+    "nome": "flavia walter",
+    "materia": "ESPANHOL - BÁSICO II"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "flavio leite costa",
+    "materia": "HISTÓRIA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "gabriela dias blanco",
+    "materia": "EDUCAÇÃO, SOCIEDADE E TRABALHO"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "gabriela dias blanco",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS II"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "gabriela dias blanco",
+    "materia": "SOCIOLOGIA"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "gabriela dias blanco",
+    "materia": "ANTROPOLOGIA"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "gabriela dias blanco",
+    "materia": "SOCIOLOGIA DA EDUCAÇÃO"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "gabriela dias blanco",
+    "materia": "SOCIOLOGIA RURAL"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "gerson carlos saiss",
+    "materia": "CONTABILIDADE"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "gerson carlos saiss",
+    "materia": "FUNDAMENTOS DE ECONOMIA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "gerson carlos saiss",
+    "materia": "ECONOMIA"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "gerson carlos saiss",
+    "materia": "ECONOMIA E MERCADO I"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "gerson carlos saiss",
+    "materia": "ECONOMIA E MERCADO II"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "giane lavarda melo",
+    "materia": "CONSTRUÇÕES RURAIS"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "giane lavarda melo",
+    "materia": "HIDRÁULICA AGRÍCOLA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "giane lavarda melo",
+    "materia": "AGROCLIMATOLOGIA"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "giane lavarda melo",
+    "materia": "HIDROLOGIA AGRÍCOLA"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "giane lavarda melo",
+    "materia": "IRRIGAÇÃO E DRENAGEM"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "giane lavarda melo",
+    "materia": "DESENHO TÉCNICO E CONSTRUÇÕES RURAIS"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "gianfranco da silva araujo",
+    "materia": "GESTÃO DE VENDAS"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "gianfranco da silva araujo",
+    "materia": "INTEGRAÇÃO COM A COMUNIDADE I"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "gianfranco da silva araujo",
+    "materia": "ORGANIZAÇÃO DE EVENTOS"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "gianfranco da silva araujo",
+    "materia": "GESTÃO DE PESSOAS"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "gianfranco da silva araujo",
+    "materia": "GESTÃO EMPRESARIAL"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "gianfranco da silva araujo",
+    "materia": "ADMINISTRAÇÃO GERAL"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "gianfranco da silva araujo",
+    "materia": "SEMINÁRIO DE VIVÊNCIAS IMOBILIÁRIAS"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "gilberto ferreira de souza",
+    "materia": "METODOLOGIA CIENTÍFICA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "gilberto ferreira de souza",
+    "materia": "FILOSOFIA DA EDUCAÇÃO"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "gilberto ferreira de souza",
+    "materia": "METODOLOGIA DO TRABALHO ACADÊMICO"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "gilberto ferreira de souza",
+    "materia": "FILOSOFIA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "gilmar bolsi",
+    "materia": "LEGISLAÇÃO APLICADA À INFORMÁTICA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "gilmar bolsi",
+    "materia": "DIREITO E LEGISLAÇÃO I"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "gilmar bolsi",
+    "materia": "LEGISLAÇÃO"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "gilmar bolsi",
+    "materia": "LEGISLAÇÃO APLICADA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "gisele aparecida vivan",
+    "materia": "ADMINISTRAÇÃO RURAL"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "gisele aparecida vivan",
+    "materia": "ECONOMIA E MERCADO AGRÍCOLA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "gisele aparecida vivan",
+    "materia": "EXTENSÃO RURAL"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "gisele aparecida vivan",
+    "materia": "METODOLOGIA DO TRABALHO CIENTÍFICO"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "gisele aparecida vivan",
+    "materia": "GESTÃO E COOPERAÇÃO RURAL"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "gisele aparecida vivan",
+    "materia": "METODOLOGIA CIENTÍFICA E PLANEJAMENTO DE PROJETOS"
+  },
+  {
+    "codigo": 9,
+    "anoPeriodo": "2025",
+    "nome": "gisele aparecida vivan",
+    "materia": "SOCIOLOGIA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "gregorio unbehaun leal da silva",
+    "materia": "SOCIOLOGIA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "guilherme dias",
+    "materia": "HISTÓRIA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "idorlene da silva hoepers",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS II"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "idorlene da silva hoepers",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS IV"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "idorlene da silva hoepers",
+    "materia": "SEMINÁRIO AVANÇADO: DIÁLOGOS ENTRE STEPHEN BALL E BASIL BERNSTEIN"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "idorlene da silva hoepers",
+    "materia": "SEMINÁRIO DE PESQUISA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "isadora balsini lucio",
+    "materia": "TECNOLOGIA DE PRODUTOS DE ORIGEM VEGETAL"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "isadora balsini lucio",
+    "materia": "METODOLOGIA CIENTÍFICA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "isadora balsini lucio",
+    "materia": "METODOLOGIA DO TRABALHO CIENTÍFICO"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "isadora balsini lucio",
+    "materia": "INICIAÇÃO CIENTÍFICA"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "isadora balsini lucio",
+    "materia": "INTRODUÇÃO À PESQUISA CIENTÍFICA"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "isadora balsini lucio",
+    "materia": "PROJETOS APLICADOS AO TURISMO, HOSPITALIDADE E LAZER"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "ivan carlos serpa",
+    "materia": "HISTÓRIA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "ivanna schenkel fornari grechi",
+    "materia": "PROJETOS APLICADOS AO TURISMO, HOSPITALIDADE E LAZER"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "ivanna schenkel fornari grechi",
+    "materia": "RECEPÇÃO E RESERVAS"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "ivanna schenkel fornari grechi",
+    "materia": "SUSTENTABILIDADE NOS MEIOS DE HOSPEDAGEM"
+  },
+  {
+    "codigo": 9,
+    "anoPeriodo": "2025",
+    "nome": "ivanna schenkel fornari grechi",
+    "materia": "TÉCNICAS DE LAZER E ENTRETENIMENTO NOS MEIOS DE HOSPEDAGEM"
+  },
+  {
+    "codigo": 11,
+    "anoPeriodo": "2025",
+    "nome": "ivanna schenkel fornari grechi",
+    "materia": "TÉCNICAS DE VENDAS EM MEIOS DE HOSPEDAGEM"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "jaime sandro dallago",
+    "materia": "AGRICULTURA III"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "jaime sandro dallago",
+    "materia": "LABORATÓRIOS DE PRÁTICAS PROFISSIONAIS ORIENTADAS"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "jaime sandro dallago",
+    "materia": "PRÁTICA PROFISSIONAL ORIENTADA III"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "jardel caminha carvalho cestari",
+    "materia": "FÍSICA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "jardel caminha carvalho cestari",
+    "materia": "FÍSICA I"
+  },
+  {
+    "codigo": 10,
+    "anoPeriodo": "2025",
+    "nome": "jardel caminha carvalho cestari",
+    "materia": "LABORATÓRIO DE FÍSICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "jefferson goncalves acunha",
+    "materia": "FITOPATOLOGIA AGRÍCOLA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "jefferson goncalves acunha",
+    "materia": "FRUTICULTURA DE CLIMA TEMPERADO"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "jefferson goncalves acunha",
+    "materia": "HORTICULTURA URBANA"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "jefferson goncalves acunha",
+    "materia": "PLANTAS DE LAVOURA I"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "jefferson goncalves acunha",
+    "materia": "TECNOLOGIA DE PRODUÇÃO DE SEMENTES"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "jefferson goncalves acunha",
+    "materia": "ATIVIDADES PRÁTICAS I – FITOTECNIA"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "jefferson goncalves acunha",
+    "materia": "FISIOLOGIA E MANEJO PÓS-COLHEITA"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "jefferson goncalves acunha",
+    "materia": "FITOPATOLOGIA GERAL"
+  },
+  {
+    "codigo": 9,
+    "anoPeriodo": "2025",
+    "nome": "jefferson goncalves acunha",
+    "materia": "FRUTICULTURA TROPICAL E SUBTROPICAL"
+  },
+  {
+    "codigo": 10,
+    "anoPeriodo": "2025",
+    "nome": "jefferson goncalves acunha",
+    "materia": "PLANTAS DE LAVOURA II"
+  },
+  {
+    "codigo": 11,
+    "anoPeriodo": "2025",
+    "nome": "jefferson goncalves acunha",
+    "materia": "SILVICULTURA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "joaquim manoel monteiro valverde",
+    "materia": "EXTENSÃO UNIVERSITÁRIA II"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "joaquim manoel monteiro valverde",
+    "materia": "EXTENSÃO UNIVERSITÁRIA I"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "joaquim manoel monteiro valverde",
+    "materia": "TEORIA GERAL DE SISTEMAS"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "joice seleme mota",
+    "materia": "BANCO DE DADOS GEOGRÁFICOS"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "joice seleme mota",
+    "materia": "ENGENHARIA DE SOFTWARE II"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "joice seleme mota",
+    "materia": "PROGRAMAÇÃO ORIENTADA A OBJETOS"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "joice seleme mota",
+    "materia": "PROGRAMAÇÃO ORIENTADA A OBJETOS I"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "joice seleme mota",
+    "materia": "ENGENHARIA DE SOFTWARE I"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "joice seleme mota",
+    "materia": "PROGRAMAÇÃO ORIENTADA A OBJETOS II"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "joice seleme mota",
+    "materia": "TÓPICOS AVANÇADOS EM PROGRAMAÇÃO"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "jose daniel cazale",
+    "materia": "PRÁTICA PROFISSIONAL ORIENTADA I"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "jose daniel cazale",
+    "materia": "PRÁTICA PROFISSIONAL ORIENTADA III"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "jose daniel cazale",
+    "materia": "ZOOTECNIA III"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "jose luiz ungericht junior",
+    "materia": "CONSTRUÇÃO CIVIL"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "jose luiz ungericht junior",
+    "materia": "ELABORAÇÃO DE EMPREENDIMENTOS"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "jose luiz ungericht junior",
+    "materia": "INTEGRAÇÃO COM A COMUNIDADE III"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "jose luiz ungericht junior",
+    "materia": "AVALIAÇÃO DE IMÓVEIS"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "jose luiz ungericht junior",
+    "materia": "INTEGRAÇÃO COM A COMUNIDADE II"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "jose luiz ungericht junior",
+    "materia": "PESQUISA IMOBILIÁRIA II"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "jose luiz ungericht junior",
+    "materia": "ENGENHARIA APLICADA"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "jose luiz ungericht junior",
+    "materia": "INTEGRAÇÃO COM A COMUNIDADE I"
+  },
+  {
+    "codigo": 9,
+    "anoPeriodo": "2025",
+    "nome": "jose luiz ungericht junior",
+    "materia": "INSTALAÇÃO ELÉTRICA DE COMPUTADORES"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "kleber ersching",
+    "materia": "FÍSICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "larise piccinini",
+    "materia": "JOGO, BRINQUEDO E BRINCADEIRA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "larise piccinini",
+    "materia": "ATIVIDADE FÍSICA DE SAÚDE"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "larise piccinini",
+    "materia": "DANÇA"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "larise piccinini",
+    "materia": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "larissa regis fernandes",
+    "materia": "GOVERNANÇA"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "larissa regis fernandes",
+    "materia": "INTRODUÇÃO AOS MEIOS DE HOSPEDAGEM"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "larissa regis fernandes",
+    "materia": "PLANEJAMENTO E ORGANIZAÇÃO DE UM MEIO DE HOSPEDAGEM"
+  },
+  {
+    "codigo": 10,
+    "anoPeriodo": "2025",
+    "nome": "larissa regis fernandes",
+    "materia": "PROJETOS APLICADOS AO TURISMO, HOSPITALIDADE E LAZER"
+  },
+  {
+    "codigo": 12,
+    "anoPeriodo": "2025",
+    "nome": "larissa regis fernandes",
+    "materia": "TÉCNICAS DE VENDAS EM MEIOS DE HOSPEDAGEM"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "leisi fernanda moya",
+    "materia": "ATIVIDADE FÍSICA DE SAÚDE"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "leisi fernanda moya",
+    "materia": "DANÇA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "leisi fernanda moya",
+    "materia": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "leonardo talavera campos",
+    "materia": "ESTATÍSTICA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "leonardo talavera campos",
+    "materia": "MELHORAMENTO GENÉTICO ANIMAL"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "leonardo talavera campos",
+    "materia": "ESTATÍSTICA APLICADA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "leticia flohr",
+    "materia": "ANÁLISE DE ÁGUA E EFLUENTES"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "leticia flohr",
+    "materia": "GESTÃO DE RESÍDUOS SÓLIDOS"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "leticia flohr",
+    "materia": "POLUIÇÃO E CONTROLE AMBIENTAL"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "leticia flohr",
+    "materia": "PROJETOS AMBIENTAIS"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "leticia flohr",
+    "materia": "TOXICOLOGIA AMBIENTAL"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "leticia lenzi",
+    "materia": "EDUCAÇÃO, SOCIEDADE E TRABALHO"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "leticia lenzi",
+    "materia": "FILOSOFIA DA TECNOLOGIA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "leticia lenzi",
+    "materia": "FILOSOFIA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "leticia pinto rabelo",
+    "materia": "VISTORIA, AVALIAÇÃO E PERÍCIAS"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "leticia pinto rabelo",
+    "materia": "GESTÃO AMBIENTAL"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "leticia pinto rabelo",
+    "materia": "IMPACTOS AMBIENTAIS"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "leticia pinto rabelo",
+    "materia": "LABORATÓRIOS DE PRÁTICAS PROFISSIONAIS ORIENTADAS"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "livia da silva perenha",
+    "materia": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "lucas gabriel soares",
+    "materia": "LITERATURA E EDUCAÇÃO"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "lucas gabriel soares",
+    "materia": "LEITURA E PRODUÇÃO TEXTUAL"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "lucas gabriel soares",
+    "materia": "PROCESSOS DE COMUNICAÇÃO II"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "lucas gabriel soares",
+    "materia": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "lucas martini",
+    "materia": "HISTÓRIA DA MATEMÁTICA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "lucas martini",
+    "materia": "DESENHO GEOMÉTRICO"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "lucas martini",
+    "materia": "MATEMÁTICA DISCRETA"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "lucas martini",
+    "materia": "ÁLGEBRA LINEAR E GEOMETRIA ANALÍTICA"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "lucas martini",
+    "materia": "MATEMÁTICA"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "lucas martini",
+    "materia": "MATEMÁTICA APLICADA A SISTEMAS DE INFORMAÇÃO"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "luciana colussi",
+    "materia": "INGLÊS INSTRUMENTAL"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "luciana colussi",
+    "materia": "LÍNGUA ESTRANGEIRA INGLÊS/ESPANHOL"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "luciana colussi",
+    "materia": "INGLÊS - BÁSICO I"
+  },
+  {
+    "codigo": 9,
+    "anoPeriodo": "2025",
+    "nome": "luciana colussi",
+    "materia": "INGLÊS - BÁSICO II"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "luis ivan martinhao souto",
+    "materia": "ANATOMIA E FISIOLOGIA ANIMAL"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "luis ivan martinhao souto",
+    "materia": "SANIDADE E HIGIENE ANIMAL"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "luis ivan martinhao souto",
+    "materia": "PRÁTICA PROFISSIONAL ORIENTADA I"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "luis ivan martinhao souto",
+    "materia": "ZOOTECNIA I"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "luiz alexandre devegili",
+    "materia": "POLÍTICAS PÚBLICAS DA EDUCAÇÃO"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "luiz alexandre devegili",
+    "materia": "SOCIOLOGIA DO TRABALHO"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "luiz alexandre devegili",
+    "materia": "SOCIOLOGIA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "luiz alvaro monteiro junior",
+    "materia": "TECNOLOGIA DE PRODUTOS DE ORIGEM ANIMAL"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "luiz alvaro monteiro junior",
+    "materia": "AGROINDÚSTRIA"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "luiz alvaro monteiro junior",
+    "materia": "PRÁTICA PROFISSIONAL ORIENTADA II"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "luiz alvaro monteiro junior",
+    "materia": "ZOOTECNIA II"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "luiz felipe ungericht",
+    "materia": "DESENHO ARQUITETÔNICO AUXILIADO POR COMPUTADOR"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "luiz felipe ungericht",
+    "materia": "DESIGN GRÁFICO"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "luiz felipe ungericht",
+    "materia": "PLANEJAMENTO URBANO E ARQUITETURA APLICADA"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "luiz felipe ungericht",
+    "materia": "DESENHO ARQUITETÔNICO"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "luiz felipe ungericht",
+    "materia": "URBANISMO"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "luiz felipe ungericht",
+    "materia": "DESENHO TÉCNICO I"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "luiz felipe ungericht",
+    "materia": "DESENHO TÉCNICO II"
+  },
+  {
+    "codigo": 10,
+    "anoPeriodo": "2025",
+    "nome": "luiz felipe ungericht",
+    "materia": "DESENHO TÉCNICO"
+  },
+  {
+    "codigo": 13,
+    "anoPeriodo": "2025",
+    "nome": "luiz felipe ungericht",
+    "materia": "INTEGRAÇÃO COM A COMUNIDADE II"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "magali dias de souza",
+    "materia": "EDUCAÇÃO E DEFICIÊNCIA INTELECTUAL"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "magali dias de souza",
+    "materia": "EDUCAÇÃO ESPECIAL: CONCEPÇÕES, SUJEITOS E PROCESSOS DE INCLUSÃO"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "magali dias de souza",
+    "materia": "ESTÁGIO SUPERVISIONADO III - ANOS INICIAIS DO ENSINO FUNDAMENTAL"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "magali dias de souza",
+    "materia": "HISTÓRIA E CONCEPÇÕES DA EDUCAÇÃO ESPECIAL"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "magali dias de souza",
+    "materia": "SEMINÁRIO AVANÇADO - ESTUDOS DA DEFICIÊNCIA NA EDUCAÇÃO: UMA CRÍTICA A CRENÇAS HEGEMÔNICAS SOBRE A DEFICIÊNCIA E A EDUCAÇÃO ESPECIAL"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "marcelo fernando rauber",
+    "materia": "ESTRUTURA DE DADOS"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "marcelo fernando rauber",
+    "materia": "LÓGICA DE PROGRAMAÇÃO"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "marcelo fernando rauber",
+    "materia": "PRATICA PROFISSIONALIZANTE ORIENTADA I"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "marcelo fernando rauber",
+    "materia": "PRATICA PROFISSIONALIZANTE ORIENTADA II"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "marcelo fernando rauber",
+    "materia": "TÓPICOS ESPECIAIS DESENVOLVIMENTO"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "marcos alexandre heinig",
+    "materia": "PREVENÇÃO E CONTROLE DE INCÊNDIOS"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "marcos alexandre heinig",
+    "materia": "PRIMEIROS SOCORROS"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "marcus vinicius machado carneiro",
+    "materia": "EDUCAÇÃO FINANCEIRA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "marcus vinicius machado carneiro",
+    "materia": "ESTÁGIO SUPERVISIONADO IV"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "marcus vinicius machado carneiro",
+    "materia": "CÁLCULO NUMÉRICO"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "marcus vinicius machado carneiro",
+    "materia": "ESTÁGIO SUPERVISIONADO III"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "marcus vinicius machado carneiro",
+    "materia": "GEOMETRIA ANALÍTICA"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "marcus vinicius machado carneiro",
+    "materia": "GEOMETRIA PLANA"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "marcus vinicius machado carneiro",
+    "materia": "MÉTODOS DE OTIMIZAÇÃO"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "marcus vinicius machado carneiro",
+    "materia": "MATEMÁTICA I"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "mateus bender",
+    "materia": "DIREITO URBANÍSTICO E AMBIENTAL"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "mateus bender",
+    "materia": "PRÁTICAS IMOBILIÁRIAS II"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "mateus bender",
+    "materia": "DIREITO E LEGISLAÇÃO IMOBILIÁRIA I"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "mateus bender",
+    "materia": "DIREITO E LEGISLAÇÃO IMOBILIÁRIA III"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "mateus bender",
+    "materia": "PRÁTICAS IMOBILIÁRIAS I"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "mateus bender",
+    "materia": "SISTEMA REGISTRAL E NOTARIAL"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "mateus bender",
+    "materia": "GESTÃO JURÍDICA DAS ORGANIZAÇÕES"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "mateus bender",
+    "materia": "DIREITO URBANO E AMBIENTAL"
+  },
+  {
+    "codigo": 9,
+    "anoPeriodo": "2025",
+    "nome": "mateus bender",
+    "materia": "DIREITO NOTARIAL E REGISTRAL IMOBILIÁRIO"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "maria aparecida de souza ramos",
+    "materia": "FILOSOFIA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "maria salete",
+    "materia": "ALFABETIZAÇÃO E LETRAMENTO II"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "maria salete",
+    "materia": "FUNDAMENTOS E METODOLOGIA EM LÍNGUA PORTUGUESA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "maria salete",
+    "materia": "PORTUGUÊS INSTRUMENTAL E COMUNICAÇÃO II"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "maria salete",
+    "materia": "ALFABETIZAÇÃO E LETRAMENTO I"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "maria salete",
+    "materia": "LINGUÍSTICA"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "maria salete",
+    "materia": "PORTUGUÊS INSTRUMENTAL E COMUNICAÇÃO I"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "maria salete",
+    "materia": "COMUNICAÇÃO E EXPRESSÃO EM LÍNGUA PORTUGUESA"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "maria salete",
+    "materia": "PROCESSOS DE COMUNICAÇÃO I"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "marilandes mol ribeiro de melo",
+    "materia": "HISTÓRIA DA EDUCAÇÃO"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "marilandes mol ribeiro de melo",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS VI"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "marilandes mol ribeiro de melo",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS VIII"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "marilandes mol ribeiro de melo",
+    "materia": "SOCIEDADE, GLOBALIZAÇÃO, CAPITALISMO E MODERNIDADE LIQUIDA"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "marilandes mol ribeiro de melo",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS V"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "marilandes mol ribeiro de melo",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS VII"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "marilandes mol ribeiro de melo",
+    "materia": "SEMINÁRIO AVANÇADO - POSSIBILIDADES TEÓRICO-METODOLÓGICAS PARA A PESQUISA NAS PERSPECTIVAS DA HISTÓRIA E DA SOCIOLOGIA DA EDUCAÇÃO"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "marilandes mol ribeiro de melo",
+    "materia": "EPISTEMOLOGIA E EDUCAÇÃO"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "marina tete vieira",
+    "materia": "EVENTOS EM MEIOS DE HOSPEDAGEM"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "marina tete vieira",
+    "materia": "FUNDAMENTOS DA HOSPITALIDADE E DO TURISMO"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "marina tete vieira",
+    "materia": "PROJETOS APLICADOS AO TURISMO, HOSPITALIDADE E LAZER"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "marli fatima vick vieira",
+    "materia": "INGLÊS - BÁSICO I"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "marli fatima vick vieira",
+    "materia": "INGLÊS - BÁSICO II"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "mauricio gustavo rodrigues",
+    "materia": "QUÍMICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "melissa meier",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS IV"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "melissa meier",
+    "materia": "TECNOLOGIAS DIGITAIS NO ENSINO DA MATEMÁTICA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "melissa meier",
+    "materia": "MATEMÁTICA ELEMENTAR"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "melissa meier",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS I"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "melissa meier",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS III"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "milena cristina franca",
+    "materia": "ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES II"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "milena cristina franca",
+    "materia": "ENGENHARIA DE SOFTWARE II"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "milena cristina franca",
+    "materia": "PESQUISA E EXTENSÃO UNIVERSITÁRIA I"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "milena cristina franca",
+    "materia": "PROCESSOS DE PESQUISA EM TECNOLOGIAS"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "milena cristina franca",
+    "materia": "ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES I"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "milena cristina franca",
+    "materia": "ENGENHARIA DE SOFTWARE I"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "milena cristina franca",
+    "materia": "SISTEMAS OPERACIONAIS"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "milena cristina franca",
+    "materia": "TRABALHO DE CONCLUSÃO DE CURSO I"
+  },
+  {
+    "codigo": 9,
+    "anoPeriodo": "2025",
+    "nome": "milena cristina franca",
+    "materia": "BANCO DE DADOS"
+  },
+  {
+    "codigo": 11,
+    "anoPeriodo": "2025",
+    "nome": "milena cristina franca",
+    "materia": "PRATICA PROFISSIONALIZANTE ORIENTADA I"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "mirela bernieri",
+    "materia": "HIGIENE DO TRABALHO"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "mirela bernieri",
+    "materia": "INTRODUÇÃO À SEGURANÇA DO TRABALHO"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "mirela bernieri",
+    "materia": "PROJETO INTEGRADOR"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "mirela bernieri",
+    "materia": "TECNOLOGIA E PROCESSOS DE TRABALHO"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "mirela bernieri",
+    "materia": "TÓPICOS ESPECIAIS"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "mirela bernieri",
+    "materia": "PREVENÇÃO E CONTROLE DE RISCOS"
+  },
+  {
+    "codigo": 9,
+    "anoPeriodo": "2025",
+    "nome": "mirela bernieri",
+    "materia": "SAÚDE DO TRABALHADOR"
+  },
+  {
+    "codigo": 10,
+    "anoPeriodo": "2025",
+    "nome": "mirela bernieri",
+    "materia": "SEGURANÇA DO TRABALHO I"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "mirian de oliveira cardoso",
+    "materia": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "monique koerich simas ersching",
+    "materia": "GESTÃO DE SAÚDE E SEGURANÇA NO TRABALHO"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "monique koerich simas ersching",
+    "materia": "PROJETO INTEGRADOR"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "monique koerich simas ersching",
+    "materia": "SEGURANÇA DO TRABALHO I"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "monique koerich simas ersching",
+    "materia": "SEGURANÇA DO TRABALHO III"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "monique koerich simas ersching",
+    "materia": "TÓPICOS ESPECIAIS"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "monique koerich simas ersching",
+    "materia": "PREVENÇÃO E CONTROLE DE RISCOS"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "monique koerich simas ersching",
+    "materia": "SEGURANÇA DO TRABALHO"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "nadia rocha veriguine",
+    "materia": "RELAÇÕES HUMANAS E ÉTICA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "nadia rocha veriguine",
+    "materia": "PSICOLOGIA DA EDUCAÇÃO"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "nadia rocha veriguine",
+    "materia": "PSICOLOGIA DO TRABALHO"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "patricia stulp",
+    "materia": "ESTATÍSTICA E PROBABILIDADE"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "patricia stulp",
+    "materia": "EXPERIMENTAÇÃO AGRÍCOLA"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "patricia stulp",
+    "materia": "MATEMÁTICA FUNDAMENTAL II"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "patricia stulp",
+    "materia": "TEORIA DE CONJUNTOS"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "patricia stulp",
+    "materia": "ESTATÍSTICA"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "patricia stulp",
+    "materia": "INFORMÁTICA"
+  },
+  {
+    "codigo": 10,
+    "anoPeriodo": "2025",
+    "nome": "patricia stulp",
+    "materia": "ESTATÍSTICA APLICADA"
+  },
+  {
+    "codigo": 12,
+    "anoPeriodo": "2025",
+    "nome": "patricia stulp",
+    "materia": "INTRODUÇÃO À PESQUISA CIENTÍFICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "paulo fernando kuss",
+    "materia": "PESQUISA E EXTENSÃO UNIVERSITÁRIA I"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "paulo fernando kuss",
+    "materia": "PESQUISA E EXTENSÃO UNIVERSITÁRIA II"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "paulo fernando kuss",
+    "materia": "HARDWARE E SISTEMAS OPERACIONAIS"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "paulo fernando kuss",
+    "materia": "PRATICA PROFISSIONALIZANTE ORIENTADA I"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "paulo fernando kuss",
+    "materia": "PRATICA PROFISSIONALIZANTE ORIENTADA II"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "paulo fernando kuss",
+    "materia": "REDES DE COMPUTADORES"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "rafael carlos velez benito",
+    "materia": "MATEMÁTICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "rafael da silva da rosa",
+    "materia": "BASQUETEBOL"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "rafael da silva da rosa",
+    "materia": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "codigo": 15,
+    "anoPeriodo": "2025",
+    "nome": "rafael da silva da rosa",
+    "materia": "ESPORTES: ATLETISMO - CORRIDAS, SALTOS, ARREMESSOS E LANÇAMENTOS"
+  },
+  {
+    "codigo": 16,
+    "anoPeriodo": "2025",
+    "nome": "rafael da silva da rosa",
+    "materia": "ESPORTES: BASQUETEBOL"
+  },
+  {
+    "codigo": 17,
+    "anoPeriodo": "2025",
+    "nome": "rafael da silva da rosa",
+    "materia": "ESPORTES: FUTSAL E FUTEBOL"
+  },
+  {
+    "codigo": 18,
+    "anoPeriodo": "2025",
+    "nome": "rafael da silva da rosa",
+    "materia": "FUTSAL E FUTEBOL"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "rafael de moura speroni",
+    "materia": "ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES II"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "rafael de moura speroni",
+    "materia": "FUNDAMENTOS DE SISTEMAS DE INFORMAÇÃO"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "rafael de moura speroni",
+    "materia": "PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "rafael de moura speroni",
+    "materia": "WEB SERVICES"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "rafael de moura speroni",
+    "materia": "ALGORITMOS E PROGRAMAÇÃO DE COMPUTADORES I"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "rafael de moura speroni",
+    "materia": "ALGORITMOS E TÉCNICAS DE PROGRAMAÇÃO"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "rafael de moura speroni",
+    "materia": "PROGRAMAÇÃO WEB"
+  },
+  {
+    "codigo": 9,
+    "anoPeriodo": "2025",
+    "nome": "rafael de moura speroni",
+    "materia": "SEMINÁRIO DE PESQUISA"
+  },
+  {
+    "codigo": 10,
+    "anoPeriodo": "2025",
+    "nome": "rafael de moura speroni",
+    "materia": "TÓPICOS AVANÇADOS EM PROGRAMAÇÃO WEB"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "rafael bernardo silveira",
+    "materia": "FUNDAMENTOS E METODOLOGIA EM GEOGRAFIA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "rafael bernardo silveira",
+    "materia": "GEOGRAFIA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "rafaella horstmann",
+    "materia": "AVICULTURA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "rafaella horstmann",
+    "materia": "NUTRIÇÃO ANIMAL"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "rafaella horstmann",
+    "materia": "PRÁTICA PROFISSIONAL ORIENTADA II"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "rafaella horstmann",
+    "materia": "ZOOTECNIA I"
+  },
+  {
+    "codigo": 10,
+    "anoPeriodo": "2025",
+    "nome": "rafaella horstmann",
+    "materia": "ZOOTECNIA II"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "railson schreinert dos santos",
+    "materia": "FISIOLOGIA VEGETAL"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "railson schreinert dos santos",
+    "materia": "BIOTECNOLOGIA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "railson schreinert dos santos",
+    "materia": "FLORICULTURA, PLANTAS ORNAMENTAIS E PAISAGISMO"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "railson schreinert dos santos",
+    "materia": "MELHORAMENTO GENÉTICO VEGETAL"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "railson schreinert dos santos",
+    "materia": "AGRICULTURA I"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "railson schreinert dos santos",
+    "materia": "PRÁTICA PROFISSIONAL ORIENTADA I"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "renata ogusucu",
+    "materia": "GENÉTICA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "renata ogusucu",
+    "materia": "BIOQUÍMICA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "renata ogusucu",
+    "materia": "BIOLOGIA"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "renata ogusucu",
+    "materia": "LABORATÓRIOS DE PRÁTICAS PROFISSIONAIS ORIENTADAS"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "roberta pereira de avila",
+    "materia": "ATIVIDADES PRÁTICAS II - ZOOTECNIA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "roberta pereira de avila",
+    "materia": "BOVINOCULTURA DE LEITE"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "roberta pereira de avila",
+    "materia": "NUTRIÇÃO ANIMAL"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "roberta pereira de avila",
+    "materia": "PRÁTICA PROFISSIONAL ORIENTADA III"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "roberta pereira de avila",
+    "materia": "ZOOTECNIA III"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "roberta raquel",
+    "materia": "GEOGRAFIA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "rodolfo augusto bravo de conto",
+    "materia": "HISTÓRIA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo de paula e silva ribeiro",
+    "materia": "DESENVOLVIMENTO WEB II"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo de paula e silva ribeiro",
+    "materia": "TÓPICOS AVANÇADOS EM TECNOLOGIAS WEB"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo de paula e silva ribeiro",
+    "materia": "CIDADES INTELIGENTES"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo de paula e silva ribeiro",
+    "materia": "ENGENHARIA DE SOFTWARE"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo de paula e silva ribeiro",
+    "materia": "FUNDAMENTOS DE INFORMÁTICA"
+  },
+  {
+    "codigo": 10,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo de paula e silva ribeiro",
+    "materia": "PRATICA PROFISSIONALIZANTE ORIENTADA II"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo nery e costa",
+    "materia": "GESTÃO DE PROJETOS"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo nery e costa",
+    "materia": "GESTÃO DE RISCOS E DESASTRES"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo nery e costa",
+    "materia": "PREVENÇÃO E CONTROLE DE RISCOS"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo nery e costa",
+    "materia": "TECNOLOGIA E CONTROLE DE SINISTROS"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo nery e costa",
+    "materia": "INFORMÁTICA BÁSICA"
+  },
+  {
+    "codigo": 9,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo nery e costa",
+    "materia": "TOPOGRAFIA E INSTRUMENTAÇÃO"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo pereira de souza",
+    "materia": "EDUCAÇÃO ESPECIAL, LINGUAGEM, CORPO E MOVIMENTO"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo pereira de souza",
+    "materia": "BASQUETEBOL"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo pereira de souza",
+    "materia": "EDUCAÇÃO FÍSICA"
+  },
+  {
+    "codigo": 10,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo pereira de souza",
+    "materia": "ESPORTES: BASQUETEBOL"
+  },
+  {
+    "codigo": 11,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo pereira de souza",
+    "materia": "ESPORTES: FUTSAL E FUTEBOL"
+  },
+  {
+    "codigo": 12,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo pereira de souza",
+    "materia": "ESPORTES: VOLEIBOL"
+  },
+  {
+    "codigo": 14,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo pereira de souza",
+    "materia": "FUTSAL E FUTEBOL"
+  },
+  {
+    "codigo": 15,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo pereira de souza",
+    "materia": "HANDEBOL"
+  },
+  {
+    "codigo": 19,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo pereira de souza",
+    "materia": "TREINAMENTO ESPORTIVO: HANDEBOL"
+  },
+  {
+    "codigo": 20,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo pereira de souza",
+    "materia": "TREINAMENTO ESPORTIVO: VOLEIBOL"
+  },
+  {
+    "codigo": 21,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo pereira de souza",
+    "materia": "VOLEIBOL"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo souza banegas",
+    "materia": "QUÍMICA GERAL E ORGÂNICA"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "rodrigo souza banegas",
+    "materia": "QUÍMICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "rosana ceolin meneghetti",
+    "materia": "AGRICULTURA II"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "rosana ceolin meneghetti",
+    "materia": "PRÁTICA PROFISSIONAL ORIENTADA II"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "rosane pedron carneiro",
+    "materia": "ESTÁGIO SUPERVISIONADO II"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "rosane pedron carneiro",
+    "materia": "FUNDAMENTOS EM MATEMÁTICA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "rosane pedron carneiro",
+    "materia": "MATEMÁTICA FINANCEIRA"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "rosane pedron carneiro",
+    "materia": "ESTÁGIO SUPERVISIONADO I"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "rosane pedron carneiro",
+    "materia": "FUNDAMENTOS E METODOLOGIA EM MATEMÁTICA"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "rosane pedron carneiro",
+    "materia": "GEOMETRIA PLANA"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "rosane pedron carneiro",
+    "materia": "LABORATÓRIO DE ENSINO DE MATEMÁTICA I"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "rosane pedron carneiro",
+    "materia": "MATEMÁTICA"
+  },
+  {
+    "codigo": 9,
+    "anoPeriodo": "2025",
+    "nome": "rosane pedron carneiro",
+    "materia": "GESTÃO FINANCEIRA EMPRESARIAL - BÁSICA"
+  },
+  {
+    "codigo": 10,
+    "anoPeriodo": "2025",
+    "nome": "rosane pedron carneiro",
+    "materia": "MATEMÁTICA APLICADA"
+  },
+  {
+    "codigo": 11,
+    "anoPeriodo": "2025",
+    "nome": "rosane pedron carneiro",
+    "materia": "MATEMÁTICA II"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "roseli nazario",
+    "materia": "ESTÁGIO SUPERVISIONADO II - EDUCAÇÃO INFANTIL"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "roseli nazario",
+    "materia": "INFÂNCIA E PEDAGOGIA"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "roseli nazario",
+    "materia": "ESTÁGIO SUPERVISIONADO I - EDUCAÇÃO INFANTIL"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "roseli nazario",
+    "materia": "INFÂNCIA E EDUCAÇÃO INFANTIL"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "roseli nazario",
+    "materia": "SEMINÁRIO AVANÇADO: ÉTICA NA PESQUISA COM CRIANÇAS"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "rossano linassi",
+    "materia": "GESTÃO EMPRESARIAL"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "rossano linassi",
+    "materia": "PESQUISA IMOBILIÁRIA I"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "rossano linassi",
+    "materia": "BOAS PRÁTICAS NA MANIPULAÇÃO DE ALIMENTOS E BEBIDAS"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "rossano linassi",
+    "materia": "TECNOLOGIA CERVEJEIRA I"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "rossano linassi",
+    "materia": "EQUIPAMENTOS CERVEJEIROS"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "rossano linassi",
+    "materia": "GESTÃO DE NEGÓCIOS E EMPREENDEDORISMO"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "rossano linassi",
+    "materia": "TERMINOLOGIA CERVEJEIRA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "sanir da conceicao",
+    "materia": "LEITURA E PRODUÇÃO TEXTUAL"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "sanir da conceicao",
+    "materia": "LÍNGUA PORTUGUESA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "sonia regina de souza fernandes",
+    "materia": "DIDÁTICA GERAL"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "sonia regina de souza fernandes",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS II"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "sonia regina de souza fernandes",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS IV"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "sonia regina de souza fernandes",
+    "materia": "TEORIAS EDUCACIONAIS E CURRICULARES"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "sonia regina de souza fernandes",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS I"
+  },
+  {
+    "codigo": 7,
+    "anoPeriodo": "2025",
+    "nome": "sonia regina de souza fernandes",
+    "materia": "PESQUISA E PROCESSOS EDUCATIVOS III"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "sonia regina de souza fernandes",
+    "materia": "SEMINÁRIO DE PESQUISA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "thaysi ventura de souza",
+    "materia": "MORFOLOGIA VEGETAL"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "thaysi ventura de souza",
+    "materia": "BIOLOGIA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "thiago henrique das neves barbosa",
+    "materia": "CÁLCULO DIFERENCIAL INTEGRAL"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "thiago henrique das neves barbosa",
+    "materia": "MATEMÁTICA FUNDAMENTAL"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "thiago henrique das neves barbosa",
+    "materia": "MATEMÁTICA"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "tiago mazzutti",
+    "materia": "PROGRAMAÇÃO I"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "tiago mazzutti",
+    "materia": "PROGRAMAÇÃO II"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "tiago mazzutti",
+    "materia": "WEB DESIGN"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "viviane furtado velho",
+    "materia": "LABORATÓRIOS DE PRÁTICAS PROFISSIONAIS ORIENTADAS"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "viviane furtado velho",
+    "materia": "NOÇÕES DE HIDRÁULICA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "viviane furtado velho",
+    "materia": "PROJETOS AMBIENTAIS"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "viviane furtado velho",
+    "materia": "SISTEMAS URBANOS DE ÁGUA E ESGOTOS"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "wesley freitas souza",
+    "materia": "ARQUITETURA E ORGANIZAÇÃO DE COMPUTADORES"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "wesley freitas souza",
+    "materia": "DESENVOLVIMENTO WEB I"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "wesley freitas souza",
+    "materia": "INTRODUÇÃO A COMPUTAÇÃO"
+  },
+  {
+    "codigo": 4,
+    "anoPeriodo": "2025",
+    "nome": "wesley freitas souza",
+    "materia": "INTRODUÇÃO A TECNOLOGIA DA INFORMAÇÃO"
+  },
+  {
+    "codigo": 5,
+    "anoPeriodo": "2025",
+    "nome": "wesley freitas souza",
+    "materia": "INFORMÁTICA BÁSICA"
+  },
+  {
+    "codigo": 8,
+    "anoPeriodo": "2025",
+    "nome": "wesley freitas souza",
+    "materia": "PRATICA PROFISSIONALIZANTE ORIENTADA I"
+  },
+  {
+    "codigo": 10,
+    "anoPeriodo": "2025",
+    "nome": "wesley freitas souza",
+    "materia": "PRATICA PROFISSIONALIZANTE ORIENTADA II"
+  },
+  {
+    "codigo": 12,
+    "anoPeriodo": "2025",
+    "nome": "wesley freitas souza",
+    "materia": "TÓPICOS ESPECIAIS EM REDES"
+  },
+  {
+    "codigo": 1,
+    "anoPeriodo": "2025",
+    "nome": "wilson jose morandi filho",
+    "materia": "ENTOMOLOGIA GERAL"
+  },
+  {
+    "codigo": 2,
+    "anoPeriodo": "2025",
+    "nome": "wilson jose morandi filho",
+    "materia": "ENTOMOLOGIA AGRÍCOLA"
+  },
+  {
+    "codigo": 3,
+    "anoPeriodo": "2025",
+    "nome": "wilson jose morandi filho",
+    "materia": "AGRICULTURA II"
+  },
+  {
+    "codigo": 6,
+    "anoPeriodo": "2025",
+    "nome": "wilson jose morandi filho",
+    "materia": "PRÁTICA PROFISSIONAL ORIENTADA I"
+  }
+]
