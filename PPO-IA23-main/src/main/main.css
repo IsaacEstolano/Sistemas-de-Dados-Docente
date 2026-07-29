@@ -1,0 +1,188 @@
+:root {
+    font-size: 16px;
+    --primary: rgb(89, 111, 193);
+    --primary-hover: rgb(117, 156, 242);
+    --bg-light: rgb(236, 236, 236);
+    --bg-dark: #1e1e2f;
+    --text-light: rgb(41, 41, 54);
+    --text-dark: #f1f1f1;
+    --card-light: #fff;
+    --card-dark: #2b2b3c;
+}
+header {
+  background-color: transparent; 
+  box-shadow: none; 
+}
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif; 
+    color: var(--text-light);
+    background-color: var(--bg-light);
+    transition: background 0.3s, color 0.3s;
+}
+
+body.dark {
+    background-color: var(--bg-dark);
+    color: var(--text-dark);
+}
+
+body.dark .searchInput {
+    background-color: var(--card-dark);
+    border-color: #555;
+    color: var(--text-dark);
+}
+
+body.dark .modal-content {
+    background-color: var(--card-dark);
+    color: var(--text-dark);
+}
+
+body.dark .mostrador-pagina {
+    color: var(--text-dark);
+}
+
+header {
+    max-height: 7rem;
+    margin-bottom: 1rem;
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid rgba(0,0,0,0.1);
+    padding: 1rem 2rem;
+
+}
+
+header img {
+    width: 3rem;
+    height: auto;
+}
+
+#logo {
+    display: grid;
+    text-align: center;
+    width: 10rem;
+    margin-left: 1rem;
+}
+
+#dark_mode_button {
+    margin-left: auto;
+}
+
+.searchInput {
+    margin-top: 8rem;
+    width: 23.4375rem; 
+    height: 3.125rem;
+    padding: 0 1rem; 
+    font-size: 1.2rem; 
+    border: 1px solid #dfe1e5; 
+    border-radius: 0.5rem; 
+    outline: none;
+    background-color: var(--card-light); 
+    transition: 0.3s;
+}
+
+.searchInput::placeholder {
+    color: rgb(126, 126, 126);
+}
+
+.searchInput:focus {
+    border-color: var(--primary);
+    box-shadow: 0 0 10px rgba(89, 111, 193, 0.3);
+}
+
+li {
+    list-style: none;
+    margin: 0.5em 0;
+    padding: 1em;
+    border-radius: 0.5em;
+    background: var(--primary);
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+li:hover {
+    background: var(--primary-hover);
+    transform: scale(1.02);
+}
+
+.back, .forward, #pessoa {
+    display: inline-block;
+    margin: 0.5rem;
+    padding: 1rem 2rem;
+    background-color: var(--primary);
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 0.5rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: background-color 0.3s ease, transform 0.2s;
+}
+
+.back:hover, .forward:hover, #pessoa:hover {
+    background-color: var(--primary-hover);
+    transform: translateY(-2px);
+}
+
+.mostrador-pagina {
+    font-size: 1.2rem;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+.modal {
+    position: fixed; 
+    top: 0; left: 0;
+    width: 100%; height: 100%;
+    background-color: rgba(0,0,0,0.5); 
+    display: none; 
+    align-items: center;
+    justify-content: center;
+    z-index: 1000;
+}
+
+.modal-content {
+  position: fixed;    
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+    background-color: var(--bg-light);
+    border-radius: 12px;
+    padding: 2rem;
+    width: 80%;
+    max-width: 600px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.3);
+}
+
+@keyframes aparecer {
+    from { opacity: 0; transform: translateY(-15px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.close {
+    position: absolute;
+    top: 1rem; right: 1rem;
+    background: transparent;
+    border: none;
+    font-size: 2rem;
+    cursor: pointer;
+    color: inherit;
+    transition: 0.3s;
+}
+
+.close:hover {
+    color: red;
+}
+
+@media (max-width: 600px) {
+    .searchInput {
+        width: 90%;
+        font-size: 1rem;
+    }
+    .modal-content {
+        width: 95%;
+    }
+}
