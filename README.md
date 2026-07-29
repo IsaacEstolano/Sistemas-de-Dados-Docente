@@ -93,15 +93,7 @@ Acesse em: `http://localhost:3000`
 ## 📁 Estrutura do Projeto
 
 ```
-sistema-dados-docentes-ifc/
-├── public/              # Arquivos estáticos (HTML, CSS, JS do frontend)
-├── routes/              # Rotas da API (Express)
-├── controllers/         # Lógica de negócio
-├── prisma/
-│   └── schema.prisma    # Schema do banco de dados
-├── scraper/             # Scripts de coleta automatizada de dados
-├── server.js            # Ponto de entrada da aplicação
-└── package.json
+
 ```
 
 ---
